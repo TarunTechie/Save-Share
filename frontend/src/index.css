@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body
+{
+    background-color:  #111827;
+}
+.register
+{
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.fields
+{
+    background-color: rgba(92, 91, 91, 0.747);
+}
